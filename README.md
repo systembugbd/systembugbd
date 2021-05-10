@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shaheb Ali
-- 👀 I’m interested in JavaScript and Nodejs
-- 🌱 I’m currently learning JavaScript, React, NodeJs, ExpressJs, PHP, Java, React Native, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma etc.
+- 👀 I’m interested in JavaScript, ReactJS, NextJS and NodeJS
+- 🌱 I’m currently learning JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Firebase, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma etc.
 - 💞️ I’m looking to collaborate on Open Source Project and Personal Project
 - 📫 How to reach me look at below-
 
