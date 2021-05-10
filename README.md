@@ -16,7 +16,7 @@
 * 🌱 I’m expert in **JavaScript, React, NodeJs, ExpressJs, PHP, Java, React Native, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma etc.**
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
-* There are some live on heroku, github, codeSandBox
+* There are some live on heroku, github, netlify
 * https://covid19trackingappbyshaheb.netlify.app/
 * https://simple-camera-app-to-capture-photo.netlify.app/
 * https://corona-live-24.herokuapp.com/
