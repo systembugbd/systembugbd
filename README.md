@@ -5,7 +5,7 @@
 - 📫 How to reach me look at below-
 
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1>
-<h3 align="center">A passionate Frontend and Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
 
@@ -17,7 +17,12 @@
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
 * There are some live on heroku, github, codeSandBox
-* https://rvpju.csb.app/
+* https://covid19trackingappbyshaheb.netlify.app/
+* https://simple-camera-app-to-capture-photo.netlify.app/
+* https://corona-live-24.herokuapp.com/
+* https://javascriptweather-app.herokuapp.com/
+* https://quran-live.herokuapp.com/
+* https://video-chat-with-shaheb.herokuapp.com/
 
 * 👨‍💻 To know more about all project and service please contact **wwwdonus@gmail.com**
 
