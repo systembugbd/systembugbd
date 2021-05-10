@@ -23,6 +23,7 @@
 * https://javascriptweather-app.herokuapp.com/
 * https://quran-live.herokuapp.com/
 * https://video-chat-with-shaheb.herokuapp.com/
+* https://systembugbd.github.io/speed-typing-master/
 
 * 👨‍💻 To know more about all project and service please contact **wwwdonus@gmail.com**
 
