@@ -18,7 +18,7 @@
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
 * There are some live on heroku, netlify, github
 * https://covid19trackingappbyshaheb.netlify.app/
-* https://disney-clone-style-component.netlify.app/home
+* https://disney-clone-style-component.netlify.app/
 * https://simple-camera-app-to-capture-photo.netlify.app/
 * https://corona-live-24.herokuapp.com/
 * https://javascriptweather-app.herokuapp.com/
