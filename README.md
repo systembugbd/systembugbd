@@ -28,7 +28,11 @@
 * https://quran-live.herokuapp.com/
 * https://video-chat-with-shaheb.herokuapp.com/
 * https://systembugbd.github.io/speed-typing-master/
-* 
+
+**Rapid API- Web Scraping with Cherio -**
+* https://rapidapi.com/wwwdonus/api/dua-and-zikir/
+* https://rapidapi.com/wwwdonus/api/climate-change3/
+
 
 
 * 👨‍💻 To know more about all project and service please contact **wwwdonus@gmail.com**
