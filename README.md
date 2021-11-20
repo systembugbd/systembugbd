@@ -17,7 +17,6 @@
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
 * There are some live on heroku, netlify, github
-* https://programmer-profile-shaheb-ali.vercel.app/
 * https://devopszone.netlify.app/
 * https://covid19trackingappbyshaheb.netlify.app/
 * https://google-meet-clone-by-shaheb.netlify.app/
@@ -32,6 +31,10 @@
 **Rapid API- Web Scraping with Cherio -**
 * https://rapidapi.com/wwwdonus/api/dua-and-zikir/
 * https://rapidapi.com/wwwdonus/api/climate-change3/
+
+** Profile **
+* https://programmer-profile-shaheb-ali.vercel.app/
+* https://systembugbd.github.io/web-profile/
 
 
 
