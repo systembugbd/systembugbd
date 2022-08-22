@@ -17,7 +17,7 @@
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
 * There are some live on heroku, netlify, github
-* https://devopszone.netlify.app/
+* https://react-redux-todo-app-with-json-server.netlify.app/
 * https://covid19trackingappbyshaheb.netlify.app/
 * https://google-meet-clone-by-shaheb.netlify.app/
 * https://disney-clone-style-component.netlify.app/
