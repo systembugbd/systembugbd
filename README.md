@@ -5,7 +5,7 @@
 - 📫 How to reach me look at below-
 
 <h1 align="center">Hi 👋, I'm Shaheb Ali</h1>
-<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend focus Fullstack Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
 
