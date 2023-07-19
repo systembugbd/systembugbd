@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/md_shaheb_ali" target="blank"><img src="https://img.shields.io/twitter/follow/md_shaheb_ali?logo=twitter&style=for-the-badge" alt="md_shaheb_ali" /></a> </p>
 
+<a href="https://app.daily.dev/systembugbd"><img src="https://api.daily.dev/devcards/e269847312a24a37b32d9095ee251f05.png?r=8aj" width="400" alt="Shaheb Ali's Dev Card"/></a>
+
 * 🌱 I’m expert in **JavaScript, React, NextJS, NodeJS, ExpressJS, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma etc.**
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
