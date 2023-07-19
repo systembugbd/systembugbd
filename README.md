@@ -12,13 +12,13 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
+<div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=systembugbd&label=Profile%20views&color=0075ce&style=flat" alt="Shaheb Ali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systembugbd&theme=onedark" alt="Shaheb Ali" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=systembugbd&theme=onedark" alt="Shaheb Ali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/md_shaheb_ali" target="blank"><img src="https://img.shields.io/twitter/follow/md_shaheb_ali?logo=twitter&style=for-the-badge" alt="md_shaheb_ali" /></a> </p>
-
-
+  <p align="left"> <a href="https://twitter.com/md_shaheb_ali" target="blank"><img src="https://img.shields.io/twitter/follow/md_shaheb_ali?logo=twitter&style=for-the-badge" alt="md_shaheb_ali" /></a> </p>
+</div>
 * 🌱 I’m expert in **JavaScript, React, NextJS, NodeJS, ExpressJS, Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma etc.**
 
 * 👨‍💻 All of my projects are available at [https://github.com/systembugbd](https://github.com/systembugbd)
