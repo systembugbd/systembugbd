@@ -57,7 +57,7 @@
 
 <h3>Profile</h3>
 
-- https://programmer-profile-shaheb-ali.vercel.app/
+- https://profile-shaheb-ali.vercel.app/
 - https://systembugbd.github.io/web-profile/
   <br /><br />
 
